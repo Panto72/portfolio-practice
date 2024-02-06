@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+}
+.nav-desigan{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(233, 162, 82, 0.651);
+    height: 75px;
+
+}
+.contents{
+    padding: 20px 30px;
+    font-size: 25px;
+    font-style: bold;
+
+}
+.contents a{
+    padding: 20px;
+    text-decoration: none;
+}
+.logo{
+    color: rgb(25, 124, 124)
+    
+}
+.name h1{
+    font-size: 30px;
+    margin-left: 40px;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-top: 20px;
+}
+.intro h2{
+    font-size: 50px;
+    font-style: italic;
+}
+.Hi{
+    color: rgb(37, 125, 207);
+}
+.intro h3{
+    font-size: 30px;
+}
+.intro{
+    width: 40%;
+    margin: 40px;
+
+}
+.intro p{
+    text-align: justify;
+    line-height: 20px;
+    font-size: 20px;
+}
+.banner-area{
+    display: flex;
+    justify-content:space-around;
+}
+.banner-area img{
+    margin: 40px;
+    border-radius: 50%;
+}
+.skill-heading h2{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(37, 125, 207);
+}
+.heading-style{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(37, 125, 207);
+}
+.skill-img{
+    width: 50%;
+}
+.skill-img img{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    margin-left: 100px;
+}
+.skills-logo{
+    display: flex;
+}
+.skills-logo img{
+    height: 100px;
+    width: 100px;
+    margin-right: 350px;
+}
+.skills-logo li{
+    list-style: none;
+    padding: 20px;
+}
+.skill-section{
+    display: flex;
+    justify-content: space-between;
+}
+.institution .insti-logo img{
+    height: 200px;
+    width: 200px;
+}
+.institution .mgc-logo img{
+    height: 300px;
+    width: 300px;
+}
+.insti-name{
+    display: flex;
+    justify-content: space-around;
+}
+.insti-description{
+    text-align: justify;
+}
