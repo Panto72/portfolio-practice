@@ -107,3 +107,34 @@ body{
 .insti-description{
     text-align: justify;
 }
+.cnt h2{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(37, 125, 207);
+}
+.contact .pltfrm img{
+    height: 50px;
+    width: 50px;
+}
+.pltfrm {
+    display: flex;
+}
+.contact{
+    display: flex;
+    justify-content: space-around;
+}
+.contact-background{
+    background-color:rgba(75, 231, 223, 0.651);
+}
+footer{
+    text-align: center;
+    padding: 20px;
+}
+.ftr{
+    background-color: rgb(238, 224, 207);
+}
+.CV img{
+
+    display: block;
+    margin: 20px auto;
+}
